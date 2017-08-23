@@ -1,7 +1,7 @@
 # IGME-110 Introduction to Interactive Media, Fall 2017: Syllabus
 
 ## Instructor and Class Details
-- Professor Elizabeth Lawley  
+- Professor Rick Scott  
   - Office: GOL-2545
   - Email: Elizabeth.Lawley@rit.edu
   - Office hours: T/Th 10am-12pm 
