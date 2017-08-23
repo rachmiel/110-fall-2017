@@ -1,5 +1,4 @@
-# Syllabus: 
-# IGME-110 Introduction to Interactive Media, Fall 2017
+# Syllabus: IGME-110 Intro to Interactive Media, Fall 2017
 
 ## Instructor and Class Details
 - Professor Rick Scott  
