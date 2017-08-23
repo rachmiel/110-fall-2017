@@ -99,6 +99,6 @@ If you have a concern related to gender-based discrimination and/or harassment a
 6.	NTID Counseling & Academic Advising Services – 2nd Floor Lynden B. Johnson
 585-475-6468 (v), 585-286-4070 (vp)
 
-## Finally...
+## Finally ...
 Any or all of the previous information is subject to change or modification during the semester. Any changes to the syllabus will be published here on GitHub, and will be announced in Slack. 
 
