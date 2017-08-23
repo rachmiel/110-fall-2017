@@ -2,14 +2,12 @@
 
 ## Instructor and Class Details
 - Professor Rick Scott  
-  - Office: GOL-2545
-  - Email: Elizabeth.Lawley@rit.edu
-  - Office hours: T/Th 10am-12pm 
-- TA Emily Turner
-  - Email: ekt6170 at rit dot edu
+  - Email: rick.scott@rit.edu  
+- TA ??????
+  - Email: ??????
   - Lab Hours: TBA
-- Class Slack: https://lawley-110-2017.slack.com/
-- Class Time/Location: Tuesdays & Thursdays, 8-9:20am, 1370 Orange Hall
+- Class Slack: https://rickscott-110-2017.slack.com/
+- Class Time/Location: Tuesdays & Thursdays, 7-8:20am, 1370 Orange Hall
 - [Schedule of Topics and Assignments](Schedule.md) 
 
 ## Course Catalog Description 
