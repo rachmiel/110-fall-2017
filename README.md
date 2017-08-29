@@ -66,7 +66,7 @@ If you are having problems with an assignment or have an emergency that may make
 ### Missed Classes
 If you miss a class, it is your responsibility to check with classmates for notes to supplement the materials I've already provided online. I will not recap classes for you. 
 ### Office Hours
-My office hours for this course are 5-7 pm on Tuesdays. The room RIT has assigned adjuncts for office hours is not very cozy, so I prefer meeting elsewhere. To this end, please email me if you'd like to meet during office hours and we'll set up a nice location. 
+My office hours for this course are 5-7 pm on Tuesdays. The room RIT assigns adjuncts for office hours is not cozy, so I prefer meeting elsewhere. To this end, please email me if you'd like to meet during office hours and we'll set up a nice location. 
 ### Mobile Phones 
 Please turn off sounds on your phone, so that you don’t disturb the people around you with notification noises. If you must take a call, please leave the room to do so. 
 ### Notices of Accommodation
