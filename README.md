@@ -7,7 +7,7 @@
   - Email: ??????
   - Lab Hours: TBA
 - Class Slack: https://rickscott-110-2017.slack.com/
-- Class Time/Location: Tuesdays & Thursdays, 7-8:20am, 1370 Orange Hall
+- Class Time/Location: Tuesdays & Thursdays, 7-8:20 pm, 1370 Orange Hall
 - [Schedule of Topics and Assignments](Schedule.md) 
 
 ## Course Catalog Description 
@@ -60,19 +60,17 @@ You will be assigned to a group for collaborative note-taking during the semeste
 - You have one semester after the class has ended to challenge your grade. 
 
 ### Communication
-Any updates to assignments or the syllabus will be posted in Github and automatically announced in Slack. Major announcements (such as class cancellations) will be posted in the general channel in Slack. This means you should regularly check the class Slack, and consider setting up notifications for the general channel. I check both email and Slack frequently, and will try to always respond within 24 hours (the exception to this is when I’m traveling, for which I’ll give you advance notice). You will get a faster response using Slack, with the bonus that other people in the class can help answer questions, as well. If you want to send me email, please make sure you send it from your RIT account to my primary RIT email: Elizabeth dot Lawley at rit dot edu. 
+Any updates to assignments or the syllabus will be posted in Github and automatically announced in Slack. Major announcements (such as class cancellations) will be posted in the # announcements channel in Slack. This means you should regularly check the class Slack, and consider setting up notifications for the # announcements channel. I check both email and Slack frequently, and will try to always respond within 24 hours (the exception to this is when I’m traveling, for which I’ll give you advance notice). You will get a faster response using Slack, with the bonus that other people in the class can help answer questions, as well. If you want to send me email, please make sure you send it from your RIT account to my primary RIT email: rick.scott@rit.edu 
 ### Late Policy
 If you are having problems with an assignment or have an emergency that may make you late in submitting your work, please contact me before the due date. Late assignments that have not been cleared with me before the due date may not be accepted, or may incur a grade penalty. 
 ### Missed Classes
 If you miss a class, it is your responsibility to check with classmates for notes to supplement the materials I've already provided online. I will not recap classes for you. 
 ### Office Hours
-I will have a minimum of four office hours per week. This is an excellent time to come in with questions on the course material, homework, or in class work. I am always happy to help you understand the course material or assignments—or just to chat about whatever topic you’d like. Take advantage of this time, since few students bother to talk with their professors outside of class. If for some reason I’m called away during office hours, there will be a note on the door. 
+My office hours for this course are 5-7 pm on Tuesdays. The room RIT has assigned adjuncts for office hours is not very cozy, so I prefer meeting elsewhere. To this end, please email me if you'd like to meet during office hours and we'll set up a nice location. 
 ### Mobile Phones 
 Please turn off sounds on your phone, so that you don’t disturb the people around you with notification noises. If you must take a call, please leave the room to do so. 
 ### Notices of Accommodation
 If you have a notice of accommodation, I should have received a copy electronically. Please discuss this with me after class or during my office hours, so that I can make sure all of your accommodations are met. 
-### Social Networks
-I don’t initiate friend requests on Facebook, because I don’t want you to feel obligated to accept. However, I do generally accept friend requests from students. I have a private Twitter account that I seldom use, and don’t accept follower requests on it. I maintain a LinkedIn account, and am happy to connect with students there in order to help them find job-related connections. Links to my various social media accounts can be found on my website (lawley.rit.edu). 
 ### Policy on Incomplete Grades
 Incomplete grades will be given only in the most exceptional circumstances, and then only by prior arrangement with me. Note that I only give incompletes in the event of: 1) military deployment or 2) documented and verifiable family or personal illness/emergency. Being overcommitted, overwhelmed, and/or not having enough time to complete your coursework does not fall into either of those two categories. Please come see me ASAP if you’re having difficulty so we can find a solution together. 
 ### Academic Dishonesty
