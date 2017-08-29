@@ -8,5 +8,5 @@ In this exercise, you'll set up your Slack account and send me your username so 
 
 2. Post a brief message to the "# announcements" channel in Slack so that we know your account is working. 
 
-3. Use your RIT email account to send a message to your professor (rick.scott@rit.edu). Add a cc: for your TA, ?????? (?????? at rit dot edu). The email should have the subject line "110 Introduction – Your Name". Use the guidelines provided in this week's reading when composing your message. At a minimum, the email should tell me what your username is in Slack; you're welcome to provide more of an introduction if you'd like (I always enjoy learning more about my students), but that won't affect your grade. 
+3. Use your RIT email account to send a message to your professor (rick.scott@rit.edu). Add a cc: for your TA, ??????. The email should have the subject line **110 Introduction – Your Name**. Use the guidelines provided in this week's reading when composing your message. At a minimum, the email should tell me what your username is in Slack. You're welcome to provide more of an introduction if you'd like — I always enjoy learning more about my students — but that won't affect your grade. 
 
