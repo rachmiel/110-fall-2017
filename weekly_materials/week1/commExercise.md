@@ -20,4 +20,4 @@
 
 # Week 1 Thursday Homework: Email to Professor
 
-1. Use the [How to Email Your Professor](https://medium.com/@lportwoodstacer/how-to-email-your-professor-without-being-annoying-af-cf64ae0e4087) article to send me an email (rick.scott@rit.edu) that has something to do with this course: a question about the course, comment, suggestion, etc.
+1. Use the [How to Email Your Professor](https://medium.com/@lportwoodstacer/how-to-email-your-professor-without-being-annoying-af-cf64ae0e4087) article to send me an email (rick.scott@rit.edu) that has something to do with this course: a question, comment, suggestion, etc.
