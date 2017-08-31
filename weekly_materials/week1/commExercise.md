@@ -14,6 +14,6 @@
 
 7. Configure your Slack notifications. You can change the "do not disturb" window (by default it's set from 10pm to 8am), and/or change notification preferences on a channel by channel basis. (Because the #announcements channel is used only by the professor for class-wide announcements, it's not a good idea to mute that channel.) 
 
-8. Before you leave class, show the professor or the TA that you've successfully added the notes folder to your Google Drive, and that you've set up the Google Drive integration with Slack. 
+8. Before you leave class, show the professor or TA that you've successfully integrted Google Drive with Slack. 
 
 ***If you have an iOS or Android mobile device, I highly recommend installing the Slack app so that you don't have to be in front of a computer to get notifications!***
