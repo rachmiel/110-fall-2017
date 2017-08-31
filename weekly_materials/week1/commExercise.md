@@ -4,7 +4,7 @@
 
 2. Open your group folder, and from the drop-down menu next to its name at the top of the screen, choose "Add to My Drive" <br>![Add to Drive Screenshot](add2drive.png)
 
-3. Open the Week 1 Notes document and add some notes from this week's classes. If other group members have already entered notes, you can add to them, edit them, format them, etc. 
+3. Open the Week 1 Notes document sitting in your folder and add some notes from this week's classes. If other group members have already entered notes, you can add to them, edit them, format them, etc. 
 
 4. In a different browser tab, open the class Slack site at https://lawley-110-2017.slack.com/, 
 
