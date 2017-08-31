@@ -1,4 +1,4 @@
-# Week 1 Thursday Exercise: Google Drive and Slack Collaboration
+# Week 1 Thursday Exercise: Google Drive and Slack Integration
 
 1. Log into RIT's Google Apps site (http://google.rit.edu), go to the Drive section, and select the "Shared With Me" option in the left sidebar. You should see a folder for your notetaking group (110 Group #). If you don't, let the professor or TA know there's a problem. 
 
@@ -14,7 +14,7 @@
 
 7. Configure your Slack notifications. You can change the "do not disturb" window (by default it's set from 10pm to 8am), and/or change notification preferences on a channel by channel basis. (Because the #announcements channel is used only by the professor for class-wide announcements, it's not a good idea to mute that channel.) 
 
-8. Before you leave class, show the professor or TA that you've successfully integrted Google Drive with Slack. 
+8. Before you leave class, show the professor or TA that you've successfully integrated Google Drive with Slack. 
 
 ***If you have an iOS or Android mobile device, I highly recommend installing the Slack app so that you don't have to be in front of a computer to get notifications!***
 
