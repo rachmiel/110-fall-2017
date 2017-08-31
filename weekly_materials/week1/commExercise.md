@@ -18,6 +18,6 @@
 
 ***If you have an iOS or Android mobile device, I highly recommend installing the Slack app so that you don't have to be in front of a computer to get notifications!***
 
-# Week 1 Thursday Homework: Email to Professor
+# Week 1 Thursday Homework: Email Me
 
 1. Use the [How to Email Your Professor](https://medium.com/@lportwoodstacer/how-to-email-your-professor-without-being-annoying-af-cf64ae0e4087) article to send me an email (rick.scott@rit.edu) that has something to do with this course: a question, comment, suggestion, etc. Feel free to have some fun with your style/content, but make sure to adhere to the article's guidelines.
