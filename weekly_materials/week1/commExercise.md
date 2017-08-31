@@ -8,9 +8,9 @@
 
 4. In a different browser tab, open the class Slack site at https://rickscott-110-2017.slack.com. 
 
-5. Find your group's private channel ("grpX"). (If you don't see a private channel with your group's number, it's because we didn't get your Slack ID in time to add it; ask the professor or TA to add you now.)
+5. Find your group's private channel ("grp#"). (If you don't see a private channel with your group's number, it's because we didn't get your Slack ID in time to add it; ask the professor or TA to add you now.)
 
-6. [Add Google Drive access to your Slack account](https://get.slack.help/hc/en-us/articles/205875058-Google-Drive-for-Slack) (using the first method: Set up the Google Drive app) and share a document from Google Drive to your group's channel.  
+6. [Add Google Drive access to your Slack account](https://get.slack.help/hc/en-us/articles/205875058-Google-Drive-for-Slack) (note: use the first method on the page: "Set up the Google Drive app") and share a document from Google Drive to your group's channel.  
 
 7. Configure your Slack notifications. You can change the "do not disturb" window (by default it's set from 10pm to 8am), and/or change notification preferences on a channel by channel basis. (Because the #announcements channel is used only by the professor for class-wide announcements, it's not a good idea to mute that channel.) 
 
