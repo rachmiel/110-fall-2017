@@ -17,3 +17,7 @@
 8. Before you leave class, show the professor or TA that you've successfully integrted Google Drive with Slack. 
 
 ***If you have an iOS or Android mobile device, I highly recommend installing the Slack app so that you don't have to be in front of a computer to get notifications!***
+
+# Week 1 Thursday Homework: Email to Professor
+
+1. Use the How To Email Your Professor article to send me an email (rick.scott@rit.edu) that has something to do with this course: a question about the course, comment, suggestion, etc.
