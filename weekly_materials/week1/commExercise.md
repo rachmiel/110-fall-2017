@@ -8,7 +8,7 @@
 
 4. In a different browser tab, open the class Slack site at https://rickscott-110-2017.slack.com. 
 
-5. Find your group's private channel ("groupX"). (If you don't see a private channel with your group's number, it's because we didn't get your Slack ID in time to add it; ask the professor or TA to add you now.)
+5. Find your group's private channel ("grpX"). (If you don't see a private channel with your group's number, it's because we didn't get your Slack ID in time to add it; ask the professor or TA to add you now.)
 
 6. [Add Google Drive access to your Slack account](https://get.slack.help/hc/en-us/articles/205875058-Google-Drive-for-Slack), and share a document from Google Drive to your group's channel.  
 
