@@ -1,4 +1,4 @@
-# Week 1 Thursday Exercise: Google Drive and Slack Integration
+# Week 1 Thursday Exercise: Google Drive + Slack Integration
 
 1. Log into RIT's Google Apps site (http://google.rit.edu), go to the Drive section, and select the "Shared With Me" option in the left sidebar. You should see a folder for your notetaking group (110 Group #). If you don't, let the professor or TA know there's a problem. 
 
