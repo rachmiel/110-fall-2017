@@ -24,7 +24,7 @@ Here are some resources that may be helpful as you work on your paper:
 ## Deliverables
 
 ### Topic Idea: Due before midnight on Wednesday, September 6th
-A very basic statement of your topic and a brief description or outline of your approach to the paper need to be turned in by 11:59 pm on Monday 9/4. This is not a graded assignment, but if you do not turn it in, you'll lose 15% off your final paper grade. I will review your topic to be sure that it's appropriate and manageable, and will provide feedback by Thursday 9/6. 
+A very basic statement of your topic and a brief description or outline of your approach to the paper need to be turned in by 11:59 pm on Wednesday 9/6. This is not a graded assignment, but if you do not turn it in, you'll lose 15% off your final paper grade. I will review your topic to be sure that it's appropriate and manageable, and will provide feedback by Thursday 9/6. 
 
 ### First Draft: Due before midnight on Monday, September 11th 
 By midnight on 9/11, put a copy of your first draft in your group's Google Docs folder. At a *minimum*, the draft should include an introductory paragraph, and a full outline of your intended content. The more you include, however, the more useful the feedback you get will be. You must review and comment on all of your group members' drafts before Friday afternoon. This is a good way to see examples of other students' approaches to the assignment, as well as to get peer feedback before turning in your final paper. Again, while the assignment will not be graded, if you don't upload a draft **and** participate in the peer review you'll lose 15% of your final paper grade.
