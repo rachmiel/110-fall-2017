@@ -39,7 +39,7 @@ This week we'll be talking about information--how to find it, and how to evaluat
 Your [paper topic idea(s)](projects/Paper.md) must be submitted to the myCourses dropbox by midnight on Monday 9/4. 
 
 - **Tuesday Readings**
-  - [How to Spot Fake News - FactCheck.org, Nov 2016)](http://www.factcheck.org/2016/11/how-to-spot-fake-news/)
+  - [How to Spot Fake News - FactCheck.org, Nov 2016](http://www.factcheck.org/2016/11/how-to-spot-fake-news/)
   - [The rise of 'fake news', manipulation and 'alternative facts' - BBC Newsnight, Feb 2017 (4m17s video)](https://www.youtube.com/watch?v=1aTApGWVGoI)
   - [The Oatmeal: Believe](http://theoatmeal.com/comics/believe_clean) (This is the sanitized "classroom" version of the comic; there is also an [NSFW original version](http://theoatmeal.com/comics/believe).)
 
