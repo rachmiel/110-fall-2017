@@ -36,7 +36,7 @@ On Tuesday, I will review the syllabus, goals, and requirements for class, as we
 
 This week we'll be talking about information--how to find it, and how to evaluate it.  On Tuesday, we'll talk broadly about critically evaluating information online. On Thursday, we'll focus on research tools and methods, with a focus on library resources you can use for your [research paper assignment](projects/Paper.md).
 
-Your [paper topic idea(s)](projects/Paper.md) must be submitted to the myCourses dropbox by midnight on Wednesday, 9/6. 
+Your paper topic idea(s) must be submitted to the myCourses dropbox by midnight on Wednesday, 9/6. 
 
 - **Tuesday Readings**
   - [How to Spot Fake News - FactCheck.org, Nov 2016](http://www.factcheck.org/2016/11/how-to-spot-fake-news/)
