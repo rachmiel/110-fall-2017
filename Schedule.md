@@ -21,12 +21,12 @@
 ## <a name="week1">Week 1</a> (Aug 29/31): Course Overview & Communication Tools
 On Tuesday, I will review the syllabus, goals, and requirements for class, as well as methods for accessing course materials on both GitHub and myCourses. On Thursday, we'll discuss communication tools you'll be using in the class, including email, Slack, and Google Docs.  
 
-- **Tuesday Readings**
+- **Tuesday Readings** (due next class)
   - [Course Syllabus](README.md)
 
 - **[Tuesday Homework](weekly_materials/week1/commHomework.md)**: Set up your Slack account, add a photo to your myCourses account, and send me an email with your Slack username. 
 
-- **<a name="w1-th-readings">Thursday Readings</a>**
+- **Thursday Readings>** (due next class)
    - [How to Email Your Professor (without being annoying AF)](https://medium.com/@lportwoodstacer/how-to-email-your-professor-without-being-annoying-af-cf64ae0e4087)
    - Slack Guides: [What is Slack?](https://get.slack.help/hc/en-us/articles/115004071768-What-is-Slack-) and [Getting Started for New Users](https://get.slack.help/hc/en-us/articles/218080037-Getting-started-for-new-users). *(Note: In our class Slack, the #general channel has been renamed to #announcements).*
 
@@ -38,14 +38,14 @@ This week we'll be talking about information--how to find it, and how to evaluat
 
 Your paper topic idea(s) must be submitted to the myCourses dropbox by midnight on Wednesday, 9/6. 
 
-- **Tuesday Readings**
+- **Tuesday Readings** (due next class)
   - [How to Spot Fake News - FactCheck.org, Nov 2016](http://www.factcheck.org/2016/11/how-to-spot-fake-news/)
   - [The rise of 'fake news', manipulation and 'alternative facts' - BBC Newsnight, Feb 2017 (4m17s video)](https://www.youtube.com/watch?v=1aTApGWVGoI)
   - [The Oatmeal: Believe](http://theoatmeal.com/comics/believe_clean) (This is the sanitized "classroom" version of the comic; there is also an [NSFW original version](http://theoatmeal.com/comics/believe).)
 
 - **Tuesday Exercise**: In class, you'll complete an online exercise and then we'll discuss it as a group.  
 
-- **Thursday Readings**
+- **Thursday Readings** (due next class)
   - [Lynda.com: Writing a Research Paper (Video tutorial, 1h56m)](https://www.lynda.com/Education-Student-Tools-tutorials/Writing-Research-Papers/158319-2.html?org=rit.edu) 
 
 - **[Thursday Exercise/Homework](weekly_materials/week2/bibExercise.md)**: If there's time, we'll start on this bibliography creation assignment in class; it's due by midnight on Sunday, 9/10.
@@ -54,7 +54,7 @@ Your paper topic idea(s) must be submitted to the myCourses dropbox by midnight 
 ## <a name="week3">Week 3</a> (Sep 12/14): Legal Issues for Media Creators
 As a creative professional, you need to be familiar with the laws governing the use of creative works--that includes not just copyright, but also trademark and patent laws. It's also important for you to be familiar with how employment and freelance contracts impact your ownership and use of your own creative work. 
 
-- **Tuesday Readings**
+- **Tuesday Readings** (due next class)
   - [Copyright in General](https://www.copyright.gov/help/faq/faq-general.html)
   - [Hacker Lexicon: What is the DMCA?](https://www.wired.com/2016/06/hacker-lexicon-digital-millennium-copyright-act/)
   - [Video: A Fair(y) Use Tale](https://www.youtube.com/watch?v=CJn_jC4FNDo) (a captioned version can be found here: https://video.rit.edu/Watch/s2YSe69J)
@@ -62,7 +62,7 @@ As a creative professional, you need to be familiar with the laws governing the 
   - [The Legal Side of Open Source](https://opensource.guide/legal/)
  
 
-- **Thursday Readings**
+- **Thursday Readings** (due next class)
   - [F*ck You, Pay Me: Video of a talk by Mike Monteiro, founder of Mule Design](https://www.youtube.com/watch?v=jVkLVRt6c1U&app=desktop)
   - [Joel Spolsky's Quora answer to "If I'm working at a company, do they have intellectual property rights to the stuff I do in my spare time?"](http://www.brightjourney.com/q/working-company-intellectual-property-rights-stuff-spare-time#a-20136)
 
