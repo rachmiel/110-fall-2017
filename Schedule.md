@@ -48,7 +48,7 @@ Your paper topic idea(s) must be submitted to the myCourses dropbox by midnight 
 - **Thursday Readings** (due next class)
   - [Lynda.com: Writing a Research Paper (Video tutorial, 1h56m)](https://www.lynda.com/Education-Student-Tools-tutorials/Writing-Research-Papers/158319-2.html?org=rit.edu) 
 
-- **[Thursday Exercise/Homework](weekly_materials/week2/bibExercise.md)**: If there's time, we'll start on this bibliography creation assignment in class; it's due by midnight on Sunday, 9/10.
+- **[Thursday Exercise/Homework](weekly_materials/week2/bibExercise.md)** (due Sunday, 9/10): If there's time, we'll start on this bibliography creation assignment in class.
 
 
 ## <a name="week3">Week 3</a> (Sep 12/14): Legal Issues for Media Creators
