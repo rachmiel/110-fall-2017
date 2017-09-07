@@ -15,4 +15,4 @@ Begin by choosing one of the following topics (do *not* use your own research pa
 
 3. Enter each of the relevant sources you find into the Sources section of your NoodleTools project, making sure you include all relevant information (author, even if it's an organizational author, publication date, URL, etc). 
 
-4. When you have at least eight references, with at least four of those being from edited or curated sources, use the "Print/Export" button at the top of the citation list to export it as a Word document, and upload that document to the dropbox in myCourses. The finished bibliography should be submitted no later than Sunday at 5pm.  
+4. When you have at least eight references, with at least four of those being from edited or curated sources, use the "Print/Export" button at the top of the citation list to export it as a Word document, and upload that document to the dropbox in myCourses. The finished bibliography should be submitted no later than Sunday at 5 pm.  
